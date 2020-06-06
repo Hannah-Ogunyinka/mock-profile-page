@@ -1,0 +1,97 @@
+body {
+  margin:0;
+  background-color: #f1fcfc;
+  text-align: center;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  line-height: 2
+}
+
+.top-container {
+  margin:0;
+  position:relative;
+  text-align: center;
+  padding-top: 80px;
+}
+
+
+.skills {
+margin: 50px auto;
+}
+
+.skill-row {
+  width:50%;
+  margin: 20px auto 70px;
+  text-align: left;
+}
+
+hr {
+    margin:40px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #633a82;
+    border-width: 8px; /* border thickness  */
+    height: 0;
+    width: 8%
+
+    }
+
+h1 {
+  margin:0 auto;
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 5rem;
+  font-weight:normal;
+  color: #66BFBF
+}
+
+.title-h2 {
+  margin:0 auto;
+  font-family: monospace;
+  font-size: 2.5rem;
+  font-weight:normal;
+  color: #66BFBF
+}
+
+h2 {
+  color: #66BFBF
+}
+
+a {
+  color:#11999E
+}
+
+h3 {
+  color:#11999E;
+}
+
+
+.cloud1 {
+  position:absolute;
+  left:180px;
+}
+
+.cloud2 {
+  position:absolute;
+  top:20px;
+  right:150px
+}
+
+.mountain {
+  padding-top:50px;
+  padding-bottom:50px
+}
+
+.profile-image {
+  width:20%
+}
+.chillies {
+  text-align: left;
+  margin:10px;
+  width: 30%;
+  float: right;
+}
+
+.computer {
+  margin:10px;
+  width: 30%;
+  float: left;
+}
